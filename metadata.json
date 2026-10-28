@@ -1,0 +1,6 @@
+{
+  "name": "KryptosFinance",
+  "description": "Secure financial management with AES-256 E2EE, biometric auth, real-time budgeting, peer debt attribution, and tax reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
